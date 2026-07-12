@@ -11,4 +11,4 @@ FastAPI + Docker + автодеплой.
     pip install -r requirements.txt
     uvicorn app.main:app --reload
 
-Документация и swagger: <https://194.67.121.156/docs>
+Документация и swagger: <https://194.67.121.156.nip.io/docs>
